@@ -1,0 +1,8 @@
+name: EmpireTool
+version: 1.0
+main: me.dcabyssh.empireTool.EmpireTool
+api-version: '1.21'
+commands:
+  tools:
+    description: Apri la GUI degli strumenti custom.
+    aliases: [tool]
